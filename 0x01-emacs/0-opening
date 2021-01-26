@@ -1,1 +1,1 @@
-C-x C-f
+echo "C-x C-f" 0-open
